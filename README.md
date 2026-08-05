@@ -14,11 +14,11 @@ Nearly twenty years of it: quote wizards at HUB, investor flows at LendingClub, 
 
 ### About this profile
 
-Most of my work lives in private repositories and client organizations — the contribution graph is the honest signal here. The older public repos are archived on purpose: they're from 2018–2024, and I'd rather mark them closed than pretend they're maintained.
+Most of my work lives in private repositories and client organisations — the contribution graph is the honest signal here. The older public repos are archived on purpose: they're from 2018–2024, and I'd rather mark them closed than pretend they're maintained.
 
 ### Where I am
 
 Barcelona, working in English, open to relocation within Europe.
 Spanish and Catalan native · English at professional working proficiency.
 
-[LinkedIn](https://www.linkedin.com/in/carlos-lima-76848816) · dj.flypo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/carlos-lima-frontend) · dj.flypo@gmail.com
