@@ -30,12 +30,12 @@ Something I use at home with my kids, not a portfolio exercise. Both demos run o
 
 | | |
 |---|---|
-| [trucutru.carloslima.dev](https://trucutru.carloslima.dev) | Reading practice: the child reads aloud, and the app follows along and tracks fluency over time. |
-| [trucutru-tables.carloslima.dev](https://trucutru-tables.carloslima.dev) | Multiplication tables, round by round. Same monorepo, same design system. |
+| [**trucutru.carloslima.dev**](https://trucutru.carloslima.dev) | Reading practice: the child reads aloud, and the app follows along and tracks fluency over time. |
+| [**trucutru-tables.carloslima.dev**](https://trucutru-tables.carloslima.dev) | Multiplication tables, round by round. Same monorepo, same design system. |
 
 ### About this profile
 
-Client work lives in private repositories and client organizations — the contribution graph is the honest signal there. The exception is `acceptance-gate`: active, public, and what the five links above are made of. The older public repos are archived on purpose—they're from 2018–2024, and I'd prefer to mark them closed rather than suggest they're maintained.
+Client work lives in private repositories and client organizations — the contribution graph is the honest signal there. The exception is `acceptance-gate`: active, public, and what the five links in the first table are made of. The older public repos are archived on purpose—they're from 2018–2024, and I'd rather mark them closed than suggest they're maintained.
 
 ### Where I am
 
