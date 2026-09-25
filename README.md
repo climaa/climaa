@@ -2,7 +2,7 @@
 
 I build the boring, high-stakes parts of enterprise web apps — multi-step forms, data tables, design systems — and prove they still work after the next migration.
 
-Nearly twenty years of it: quote wizards at HUB, investor flows at LendingClub, a shared component library at Hulu, work orders at YouBIM. Currently at Pulse Charter Connect.
+Nearly twenty years of it: quote wizards at HUB, investor flows at LendingClub, a shared component library at Hulu, work orders at YouBIM. Most recently at Pulse Charter Connect (organ-transport logistics).
 
 ### What I actually do
 
