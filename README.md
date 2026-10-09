@@ -33,6 +33,14 @@ Something I use at home with my kids, not a portfolio exercise. Both demos run o
 | [**trucutru.carloslima.dev**](https://trucutru.carloslima.dev) | Reading practice: the child reads aloud, and the app follows along and tracks fluency over time. |
 | [**trucutru-tables.carloslima.dev**](https://trucutru-tables.carloslima.dev) | Multiplication tables, round by round. Same monorepo, same design system. |
 
+### A forecasting tournament, judged by MAPE
+
+A Python engine runs the models; a static Next.js demo shows the results. Same acceptance-gated pipeline.
+
+| | |
+|---|---|
+| [**mape.carloslima.dev**](https://mape.carloslima.dev) | Nine demand-forecasting models — from a same-weekday baseline to SARIMAX, XGBoost and an LSTM — predict a restaurant's dish sales day by day, scored by MAPE. Bring your own sales file and run the same tournament in your browser; it never leaves it. |
+
 ### About this profile
 
 Client work lives in private repositories and client organizations — the contribution graph is the honest signal there. The exception is `acceptance-gate`: active, public, and what the five links in the first table are made of. The older public repos are archived on purpose—they're from 2018–2024, and I'd rather mark them closed than suggest they're maintained.
