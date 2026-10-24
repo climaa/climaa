@@ -41,6 +41,14 @@ A Python engine runs the models; a static Next.js demo shows the results. Same a
 |---|---|
 | [**mape.carloslima.dev**](https://mape.carloslima.dev) | Nine demand-forecasting models — from a same-weekday baseline to SARIMAX, XGBoost and an LSTM — predict a restaurant's dish sales day by day, scored by MAPE. Bring your own sales file and run the same tournament in your browser; it never leaves it. |
 
+### A 3D scene, held to the same rules
+
+A spike that asks what a WebGL scene costs a gated monorepo, and answers with numbers.
+
+| | |
+|---|---|
+| [**horizon.carloslima.dev**](https://horizon.carloslima.dev) | Cubelles from the sand — the beach, the town and the palm promenade — in a React Three Fiber scene that follows the light and dark theme. Every word is in the HTML underneath, so with JavaScript off, without WebGL or with reduced motion you still get the page and its poster. In English, Spanish and Catalan. |
+
 ### About this profile
 
 Client work lives in private repositories and client organizations — the contribution graph is the honest signal there. The exception is `acceptance-gate`: active, public, and what the five links in the first table are made of. The older public repos are archived on purpose—they're from 2018–2024, and I'd rather mark them closed than suggest they're maintained.
